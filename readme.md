@@ -1,62 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/styles.css">
-    <title>Your Portfolio</title>
-</head>
-<body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#portfolio">Portfolio</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
+# Personal Portfolio Website
 
-    <section id="home" class="hero">
-        <h1>Irene Bendanillo</h1>
-        <p>Web Developer & Designer</p>
-        <a href="#portfolio" class="cta-button">View My Work</a>
-    </section>
+<div align = "center" style="padding:30px";> <h1> About Me </h1>
 
-    <section id="about" class="about">
-        <h2>About Me</h2>
-        <p>CS student, builder debugs by day, learns by night...</p>
-    </section>
+<a href="https://github.com/Gwennyie">
+    <img src = "https://avatars.githubusercontent.com/u/175392319?s=400&u=8ee5db4d6f1b4fd92a9dc92e15d77aa863123df6&v=4" alt= "Gwen Photo"
+    width = "150"
+    style = "border-radius: 50%;">
+</a>
 
-    <section id="portfolio" class="portfolio">
-        <h2>Portfolio</h2>
-        <div class="portfolio-item">
-            <img src="img/img1.jpg" alt="Project 1">
-            <h3>Project 1</h3>
-            <p>A GitHub repository showcasing my projects, code, and learning journey...</p>
-        </div>
-        <div class="portfolio-item">
-            <img src="img/img1.jpg" alt="Project 2">
-            <h3>Project 2</h3>
-            <p>Description of Project 2...</p>
-        </div>
-        <!-- Add more portfolio items as needed -->
-    </section>
+<p>
+    <b>Name: Roniella Gwen R. Capuno</b><br>
+    <nobr><b>Email: 202480103@psu.palawan.edu.ph</b>
+</p>
+<p>
+    Hi! I’m Roniella, a Computer Science student with an interest in technology, programming, and creative design. I enjoy learning new skills, solving problems, and working on projects that help me grow both technically and personally. I’m always eager to explore new ideas and improve through every experience.
+</p>
 
-    <section id="contact" class="contact">
-        <h2>Contact Me</h2>
-        <p>Contact or email me at irinn00@gmail.com</p>
-    </section>
-
-    <footer>
-        <ul>
-            <li><a href="#home">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#portfolio">Portfolio</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-        <p>&copy; 2023 Your Name. All rights reserved.</p>
-    </footer>
-</body>
-</html>
+<a href="https://www.facebook.com/Roniella11">
+    <img src = "img/Facebook.png" alt = "Facebook icon" width = "30">
+</a>    
+<a href="https://github.com/Gwennyie">
+    <img src = "img/Github_black.png" alt = "Github icon" width = "30">
+</a> 
+</div>
